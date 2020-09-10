@@ -25,6 +25,7 @@ SOFTWARE.
 #include "linechart.h"
 #include "stringutil.h"
 
+#include <QPainterPath>
 #include <QDateTime>
 #include <QLineF>
 #include <QPainter>
